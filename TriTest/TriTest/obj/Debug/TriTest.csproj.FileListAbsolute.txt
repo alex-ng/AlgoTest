@@ -1,0 +1,6 @@
+c:\users\alex nguyen\documents\visual studio 2013\Projects\TriTest\TriTest\bin\Debug\TriTest.exe.config
+c:\users\alex nguyen\documents\visual studio 2013\Projects\TriTest\TriTest\bin\Debug\TriTest.exe
+c:\users\alex nguyen\documents\visual studio 2013\Projects\TriTest\TriTest\bin\Debug\TriTest.pdb
+c:\users\alex nguyen\documents\visual studio 2013\Projects\TriTest\TriTest\obj\Debug\TriTest.csprojResolveAssemblyReference.cache
+c:\users\alex nguyen\documents\visual studio 2013\Projects\TriTest\TriTest\obj\Debug\TriTest.exe
+c:\users\alex nguyen\documents\visual studio 2013\Projects\TriTest\TriTest\obj\Debug\TriTest.pdb
